@@ -151,4 +151,3 @@ This project is **open-source** and free to use under the MIT License. See the `
 For any questions or feedback, feel free to reach out:
 
 - **GitHub**: [@donbagger](https://github.com/donbagger)
-- **Email**: your.email@example.com
